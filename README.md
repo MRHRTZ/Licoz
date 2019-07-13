@@ -31,3 +31,6 @@
 
 # Contact
 - Whatsapp : 085559038021
+
+# For bug Pleasse Report
+- hanifsyauqi61@gmail.com
