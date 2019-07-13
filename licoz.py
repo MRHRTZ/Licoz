@@ -11,7 +11,7 @@ import time
 
 
 if os.getuid() != 0:
-	print "Maaf. Tool ini membutuhkan perintah tsu/sudo (root)"
+	print "\n\033[1;36mMaaf. Tool ini membutuhkan perintah tsu/sudo (root)\n"
 	sys.exit()
 
 def keluar1():
@@ -59,7 +59,7 @@ def main():
 
  %% |           %% |      %%% __ %\      %%     %%\      \_________ %% |
  %% |           %% |     %%% /  \__|    %%       %%\               %%_/ 
- %% |           %% |    %%% /           %%       %% |            %%_/\033[1;m\033[1;37m 
+ %% |           %% |    %%% /           %%       %% |            %%_/\033[1;m\033[1;37m
  %% |           %% |    %% |            %%       %% |          %%_/
  %% |           %% |    %%%             %%       %% |        %%_/ 
  %% |           %% |    \%%%      /|    %%       %% |      %%_/ 
@@ -135,7 +135,7 @@ def main():
 2) Lihat kategori
 3) Pasang Indikator menu klasik
 4) Pasang Kali menu
-\x1b[1;37;43m5) Bantuan\033[1;m
+\033[1;33m5) Bantuan\033[1;m
 
 			''')
 
