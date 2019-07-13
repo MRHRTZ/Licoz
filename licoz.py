@@ -59,7 +59,7 @@ def main():
  %% |           %% |      %%% __ %\      %%     %%\      \_________ %% |
  %% |           %% |     %%% /  \__|    %%       %%\               %%_/ 
  %% |           %% |    %%% /           %%       %% |            %%_/
- \033[1;m\033[1;37m%% |           %% |   %% |             %%       %% |           %%_/
+ \033[1;m\033[1;37m%% |           %% |    %% |            %%       %% |           %%_/
  %% |           %% |    %%%             %%       %% |        %%_/
  %% |           %% |    \%%%      /|    %%       %% |      %%_/
  %% \           %% |     \%%%    % |     %%     %% /     %% /
@@ -123,7 +123,7 @@ def main():
 \033[1;91m[!!!] Sebelum memperbarui sistem, tolong hapus semua repository kali linux untuk menghindari kesalahan! .\033[1;m
 		
 
-\033[1;37mNOTE : Please Don't Recode!, Coding Mikir Pake Otak :')\033[1;m
+\033[1;32mNOTE : Please Don't Recode!, Coding Mikir Pake Otak :')\033[1;m
 
 		''')
 		def menu():
@@ -134,7 +134,7 @@ def main():
 2) Lihat kategori
 3) Pasang Indikator menu klasik
 4) Pasang Kali menu
-\033[1;33m5) Bantuan\033[1;m
+\033[1;34m5) Bantuan\033[1;m
 
 			''')
 
