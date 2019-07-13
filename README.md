@@ -13,6 +13,8 @@
 # Instalasi
 - sudo su
 - git clone https://github.com/MRHZx/Licoz.git && cp Licoz/licoz.py /usr/bin/licoz
+- cd Licoz
+- pip2 install -r requirements.txt
 - chmod +x /usr/bin/licoz
 - sudo licoz 
 
@@ -32,5 +34,5 @@
 # Contact
 - Whatsapp : 085559038021
 
-# For bug Pleasse Report
+# For bug Please Report
 - hanifsyauqi61@gmail.com
